@@ -1,10 +1,7 @@
 我在github上修改了
 hi，GIT!
-hi，GIT!
-hi，GIT!
-hi，GIT!
 hi，GIT!    master test
-hi，GIT!
 hi，GIT!
 hi，GIT! hot-fix test
 我在hot-fix上修复了代码，这一行就是用来修复的
+我令狐冲clone下来后，修改了代码
