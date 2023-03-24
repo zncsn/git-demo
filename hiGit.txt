@@ -7,3 +7,5 @@ hi，GIT! hot-fix test
 我令狐冲clone下来后，修改了代码
 我更新了github上的hiGit，现在看下刷新后gitee会不会更新，有冲突咋办？
 gitee上的修改直接会被覆盖
+
+改动 
